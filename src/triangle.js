@@ -1,4 +1,3 @@
-import Triangle from './triangle.js';
 
 export default function Triangle(side1, side2, side3) {
   this.side1 = side1;
