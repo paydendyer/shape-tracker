@@ -16,7 +16,7 @@ A web application that tells you about shapes.
 10. Git
 
 ## Description
-This web application takes sides of different shapes and returns information about that shape. This project was built to practice Test Driven Development and to learn about module bundling with webpack to keep code base well-organized and efficient and incorporated linting and frontend dependencies.
+This web application takes sides of different shapes and returns information about that shape. This project was built to practice Test Driven Development with Jest and to learn about module bundling with WebPack to keep code base well-organized and efficient and incorporated linting and frontend dependencies.
 
 ## Setup Instructions
 After cloning the repository with git clone, open index.html in your browser.
